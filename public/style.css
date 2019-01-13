@@ -1,0 +1,53 @@
+body { 
+  background: linear-gradient(to right, #e75dfd 0%, #1f9 100%);
+}
+
+.jumbotron {
+  background: linear-gradient(to right, #E7E7E9 0%, #edf 100%);
+}
+
+.navbar {
+  background: linear-gradient(to right, #b7C7C9 0%, #9E9E90 100%);
+}
+
+.dropdown-menu {
+  background: #C9C;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  color: #E7E7E0;
+  text-shadow: 2px 2px 2px #000;  
+}
+
+
+a:link {
+  outline: none;
+  text-decoration: none;
+  color: #E7E7E7;
+}
+
+a:visited {
+  outline: none;
+  text-decoration: none;
+  color: #E7E7E7;
+}
+
+a:focus {
+  outline: none;
+  text-decoration: none;
+  color: #E7E7E7;
+}
+
+a:hover {
+  outline: none;
+  text-decoration: none;
+  color: #FFF;
+}
+
+a:active {
+  outline: none;
+  text-decoration: none;
+  color: #FFF;
+}
