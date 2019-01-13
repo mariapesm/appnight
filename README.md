@@ -1,6 +1,6 @@
 **Objective:** 
 
-Build a full stack JavaScript app that is functionally similar to this: <https://yasser-nightlife-app.herokuapp.com/> and deploy it to Heroku.
+Build a full stack JavaScript app that is functionally
 
 **Challenge**
 <https://www.freecodecamp.org/challenges/build-a-nightlife-coordination-app>
